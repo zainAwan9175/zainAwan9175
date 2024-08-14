@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **SWE Fellowship**
  
- 🌱 I’m currently learning **Next js, MERN, AWS**
+ 🌱 I’m currently learning **Next js, MERN, C++**
 
 💬 Ask me about **Next js, C++ or anything [here](https://www.linkedin.com/in/junaid-shaukat-ba44492a7/)**
 
