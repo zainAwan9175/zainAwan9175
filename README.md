@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Junaid+Shaukat!&color=32CD32" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Zain+UL+Abedien!&color=32CD32" />
 </h1>
 
 
@@ -9,27 +9,12 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **SWE Fellowship**
+ 🔭 I’m a **Software Engineer**
  
- 🌱 I’m currently learning **Next js, MERN, C++**
-
-💬 Ask me about **Next js, C++ or anything [here](https://www.linkedin.com/in/junaid-shaukat-ba44492a7/)**
-
 ⚡ Fun fact **I love to code**
 
  </div>
  
-<div align="center"> 
-  <a href="junaidshaukat546@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="35px" />
-  </a>
-  <a href="https://www.linkedin.com/in/junaid-shaukat-ba44492a7/"  target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="35px" target="_blank" />
-  </a>
-  <a href="https://junaid-shaukat.github.io/myportfolio/" target="_blank">
-     <img src="https://skillicons.dev/icons?i=htmx" width="35px" target="_blank" /> 
-  </a>
-</div>
 
  <hr/>
  
